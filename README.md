@@ -92,4 +92,7 @@ Easily customizable for other domains
 
 This project effectively demonstrates practical use of Python in data analytics and automation, making it highly relevant for internships, business reporting, or academic evaluation.
 
-Output
+Output : 
+
+<img width="1869" height="805" alt="Image" src="https://github.com/user-attachments/assets/72e25aa7-9e1c-4d6a-a036-dd08962cd9f3" />
+<img width="1690" height="742" alt="Image" src="https://github.com/user-attachments/assets/8337c091-ebc3-4ef5-b6c5-74a9c5f99db1" />
